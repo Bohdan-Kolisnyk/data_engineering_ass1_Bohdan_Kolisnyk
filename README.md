@@ -1,5 +1,5 @@
 # data_engineering_ass1_Bohdan_Kolisnyk
-## I didn't really understand what I should paste here therefore here is a copy of the assignment README with my comments at the bottom
+## I didn't really understand what I should paste here therefore, here is a copy of the assignment README with my comments at the bottom
 
 # 📘 Student Assignment: Working with Nested JSON Data
 
@@ -161,7 +161,7 @@ Good luck!
 
 
 
-##Short decription of what was done:
+## Short decription of what was done:
 Dataset chosen: https://www.kaggle.com/datasets/Cornell-University/arxiv/data
 It contains nested structures in "versions" and "update_date"
 About the code:
