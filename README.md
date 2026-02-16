@@ -166,4 +166,8 @@ Dataset chosen: https://www.kaggle.com/datasets/Cornell-University/arxiv/data
 It contains nested structures in "versions" and "update_date"
 About the code:
 Data was uploaded and quality checked(nulls=0, duplicates by id = 26, and for schema validation articles without authors = 0)
+Parsing: unnested the versions array and parsed nested date fields
 Insights analyzed:
+1. Most active research categories by total paper submissions(top1 - hep-ph)
+2. Shift towards larger research teams(3-year MA of author qty)(res: from 1.96 to 5.19 change)
+3. Each category research trends(YoY growth rates) (top1 - 2020(year), eess.AS(category), 1988(papers qty), 152.28(growth %)
